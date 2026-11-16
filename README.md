@@ -2,8 +2,6 @@
 
 # Fundus-image-to-vf-synthesis
 
-# Fundus-Image-to-VF-Synthesis
-
 A multimodal deep learning system designed to synthesize **Visual Field (VF)** data directly from **retinal fundus images** and clinical parameters, bridging the structural–functional gap in glaucoma diagnosis and monitoring.
 
 ## Project Objectives
