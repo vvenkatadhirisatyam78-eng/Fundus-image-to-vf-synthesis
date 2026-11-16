@@ -1,4 +1,33 @@
+
+
 # Fundus-image-to-vf-synthesis
+
+# Fundus-Image-to-VF-Synthesis
+
+A multimodal deep learning system designed to synthesize **Visual Field (VF)** data directly from **retinal fundus images** and clinical parameters, bridging the structural–functional gap in glaucoma diagnosis and monitoring.
+
+## Project Objectives
+* **Structural-to-Functional Synthesis:** Develop a deep learning pipeline to predict functional Visual Field (VF) data from accessible structural fundus imaging.
+* **Multimodal Learning:** Integrate **Fundus Images**, **Visual Field (VF) data**, and **Intraocular Pressure (IOP)** measurements to improve prediction fidelity.
+* **Advanced Architecture & Optimization:** Design and benchmark multiple model variations—including **Vision Transformers (ViT)** and **Diffusion Models**—enhanced with **contrastive loss**, **reliability weighting**, and **Particle Swarm Optimization (PSO)**.
+* **Clinical Prototyping:** Evaluate performance using metrics such as **Mean Squared Error (MSE)** to build a reliable prototype pipeline for glaucoma progression monitoring.
+
+---
+
+## My Contributions
+As the primary developer on this project, I handled the end-to-end implementation, data engineering, and experimental validation:
+
+* **Data Engineering & Multimodal Preprocessing:** Cleaned retinal imaging and clinical datasets, implementing automated pipelines to extract structured features from fundus images and align them with VF and IOP records.
+* **Model Architecture & Training:** Built, trained, and iteratively refined **Vision Transformer (ViT)** and **Diffusion Model** pipelines tailored for fundus-to-VF synthesis.
+* **Loss Design & Optimization:** Implemented and tested model variations incorporating **contrastive loss**, **reliability weighting**, and **PSO** to enhance synthesis stability and accuracy.
+* **Evaluation & Error Analysis:** Benchmarked model outputs using **MSE** and visual inspection, diagnosing failure cases and implementing targeted corrections across iterations.
+* **Technical Documentation & Presentation:** Synthesized experimental results, architectural workflows, and clinical insights into technical presentations.
+
+---
+
+## Acknowledgments
+* **Raja Chandru** — *Project Mentor & Domain Advisor*: Provided academic mentorship, conceptual guidance on Vision Transformers and Diffusion Models, and clinical domain expertise in glaucoma pathology.
+
 fundus to vf synthesis project
 ## Objectives
 
