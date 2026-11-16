@@ -26,7 +26,7 @@ As the primary developer on this project, I handled the end-to-end implementatio
 ---
 
 ## Acknowledgments
-* **Raja Chandru** — *Project Mentor & Domain Advisor*: Provided academic mentorship, conceptual guidance on Vision Transformers and Diffusion Models, and clinical domain expertise in glaucoma pathology.
+* **Dr Raja Chandru** — *Project Mentor & Domain Advisor*: Provided academic mentorship, conceptual guidance on Vision Transformers and Diffusion Models, and clinical domain expertise in glaucoma pathology.
 
 fundus to vf synthesis project
 ## Objectives
