@@ -11,6 +11,10 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 * **Clinical Prototyping:** Evaluate performance using metrics such as **Mean Squared Error (MSE)** to build a reliable prototype pipeline for glaucoma progression monitoring.
 
 ---
+## Recognition
+* 🏆 **Semifinalist** — Economic Times Hackathon
+---
+
 
 ## My Contributions
 
