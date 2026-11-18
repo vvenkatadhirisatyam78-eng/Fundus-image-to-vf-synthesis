@@ -3,6 +3,11 @@
 # Fundus-image-to-vf-synthesis
 
 A multimodal deep learning system designed to synthesize **Visual Field (VF)** data directly from **retinal fundus images** and clinical parameters, bridging the structural–functional gap in glaucoma diagnosis and monitoring.
+## Team & Mentorship
+
+* **Primary Developer:** Penubothu Vishnu Sai, Dr Raja Chandru*
+* **Collaborator:** [@vvenkatadhirisatyam78-eng](https://github.com)
+* **Project Mentor:** [@Rajachandru](https://github.com)
 
 ## Project Objectives
 * **Structural-to-Functional Synthesis:** Develop a deep learning pipeline to predict functional Visual Field (VF) data from accessible structural fundus imaging.
