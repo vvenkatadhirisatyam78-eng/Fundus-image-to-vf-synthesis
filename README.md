@@ -10,11 +10,12 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 * **Advanced Architecture & Optimization:** Design and benchmark multiple model variations—including **Vision Transformers (ViT)** and **Diffusion Models**—enhanced with **contrastive loss**, **reliability weighting**, and **Particle Swarm Optimization (PSO)**.
 * **Clinical Prototyping:** Evaluate performance using metrics such as **Mean Squared Error (MSE)** to build a reliable prototype pipeline for glaucoma progression monitoring.
 
----
 ## Recognition
-* 🏆 **Semifinalist** — Economic Times Hackathon
----
 
+🏆 **Semifinalist — ET-AI Hackathon 2026 (Economic Times)**  
+📄 [View Official Certificate (PDF)](docs/ET-AI_Hackathon_2026_Certificate_Penubothu_Vishnu_Sai.pdf)
+
+---
 
 ## My Contributions
 
