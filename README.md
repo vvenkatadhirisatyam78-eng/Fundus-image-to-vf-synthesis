@@ -5,7 +5,7 @@
 A multimodal deep learning system designed to synthesize **Visual Field (VF)** data directly from **retinal fundus images** and clinical parameters, bridging the structural–functional gap in glaucoma diagnosis and monitoring.
 ## Team & Mentorship
 
-* **Primary Developer:** Penubothu Vishnu Sai, Dr Raja Chandru*
+* **Primary Developer:** Penubothu Vishnu Sai, Dr.C. Raja
 * **Collaborator:** [@vvenkatadhirisatyam78-eng](https://github.com)
 * **Project Mentor:** [@Rajachandru](https://github.com/Rajachandru/Fundus-image-to-vf-synthesis)
 
@@ -37,7 +37,7 @@ As the primary developer for this **ET-AI Hackathon 2026 Semifinalist** project,
 ---
 
 ## Acknowledgments
-* **Dr Raja Chandru** — *Project Mentor & Domain Advisor*: Provided academic mentorship, conceptual guidance on Vision Transformers and Diffusion Models, and clinical domain expertise in glaucoma pathology.
+* **Dr.C. Raja ** — *Project Mentor & Domain Advisor*: Provided academic mentorship, conceptual guidance on Vision Transformers and Diffusion Models, and clinical domain expertise in glaucoma pathology.
 
 fundus to vf synthesis project
 ## Objectives
