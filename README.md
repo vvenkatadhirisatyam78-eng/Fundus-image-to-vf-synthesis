@@ -7,7 +7,7 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 
 * **Primary Developer:** Penubothu Vishnu Sai, Dr Raja Chandru*
 * **Collaborator:** [@vvenkatadhirisatyam78-eng](https://github.com)
-* **Project Mentor:** [@Rajachandru](https://github.com)
+* **Project Mentor:** [@Rajachandru](https://github.com/Rajachandru/Fundus-image-to-vf-synthesis)
 
 ## Project Objectives
 * **Structural-to-Functional Synthesis:** Develop a deep learning pipeline to predict functional Visual Field (VF) data from accessible structural fundus imaging.
