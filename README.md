@@ -13,7 +13,7 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 ## Recognition
 
 🏆 **Semifinalist — ET-AI Hackathon 2026 (Economic Times)**  
-📄 [View Official Certificate (PDF)](docs/ET-AI_Hackathon_2026_Certificate_Penubothu_Vishnu_Sai.pdf)
+📄 [View Official Certificate (PDF)](ET-AI_Hackathon_2026_Certificate_Penubothu_Vishnu_Sai.pdf)
 
 ---
 
