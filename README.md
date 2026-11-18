@@ -12,6 +12,8 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 
 ## Recognition
 
+## Recognition
+
 🏆 **Semifinalist — ET-AI Hackathon 2026 (Economic Times)**  
 📄 [View Official Certificate (PDF)](ET-AI_Hackathon_2026_Certificate_Penubothu_Vishnu_Sai.pdf)
 
@@ -19,14 +21,13 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 
 ## My Contributions
 
-As the primary developer, I managed the entire GitHub codebase from initial setup to final deployment, handling end-to-end implementation, data engineering, and experimental validation:
+As the primary developer for this **ET-AI Hackathon 2026 Semifinalist** project, I managed the entire GitHub codebase from initial setup to final deployment, handling end-to-end implementation, data engineering, and experimental validation:
 
-* **Data Engineering & Multimodal Preprocessing:** Cleaned retinal imaging and clinical datasets, implementing automated pipelines to extract structured features from fundus images and align them with VF and IOP records.
-* **Model Architecture & Training:** Built, trained, and iteratively refined **Vision Transformer (ViT)** and **Diffusion Model** pipelines tailored for fundus-to-VF synthesis.
-* **Loss Design & Optimization:** Implemented and tested model variations incorporating **contrastive loss**, **reliability weighting**, and **PSO** to enhance synthesis stability and accuracy.
+* **Data Engineering & Multimodal Preprocessing:** Cleaned retinal imaging and clinical datasets by filtering out corrupted/unwanted samples, performing manual data labeling, applying data augmentation, and building automated pipelines to extract structured features from fundus images aligned with VF and IOP records.
+* **Model Architecture & Multimodal Fusion:** Explored **Transformers** and **GAN** architectures, ultimately building, training, and iteratively refining **Vision Transformer (ViT)** and **Diffusion Model** pipelines—integrating conventional and contrastive feature representations fused with ViT for fundus-to-VF synthesis.
+* **Hyperparameter Tuning & PSO Optimization:** Conducted extensive parameter tuning across **Python**, **Google Colab**, **Jupyter Notebooks**, and **VS Code**, implementing and benchmarking **Particle Swarm Optimization (PSO)** with both reliability-weighted and non-weighted parameter configurations alongside **contrastive loss** to maximize synthesis stability and accuracy.
 * **Evaluation & Error Analysis:** Benchmarked model outputs using **MSE** and visual inspection, diagnosing failure cases and implementing targeted corrections across iterations.
 * **Repository Management & Documentation:** Maintained structured version control, clean commit histories, and comprehensive README documentation on GitHub alongside technical presentations of experimental results and clinical insights.
-
 
 ---
 
