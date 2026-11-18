@@ -12,14 +12,13 @@ A multimodal deep learning system designed to synthesize **Visual Field (VF)** d
 
 ---
 
-## My Contributions
-As the primary developer on this project, I handled the end-to-end implementation, data engineering, and experimental validation:
-
-* **Data Engineering & Multimodal Preprocessing:** Cleaned retinal imaging and clinical datasets, implementing automated pipelines to extract structured features from fundus images and align them with VF and IOP records.
-* **Model Architecture & Training:** Built, trained, and iteratively refined **Vision Transformer (ViT)** and **Diffusion Model** pipelines tailored for fundus-to-VF synthesis.
-* **Loss Design & Optimization:** Implemented and tested model variations incorporating **contrastive loss**, **reliability weighting**, and **PSO** to enhance synthesis stability and accuracy.
-* **Evaluation & Error Analysis:** Benchmarked model outputs using **MSE** and visual inspection, diagnosing failure cases and implementing targeted corrections across iterations.
-* **Technical Documentation & Presentation:** Synthesized experimental results, architectural workflows, and clinical insights into technical presentations.
+##My Contributions
+As the primary developer, I managed the entire GitHub codebase from initial setup to final deployment, handling end-to-end implementation, data engineering, and experimental validation:
+• Data Engineering & Multimodal Preprocessing: Cleaned retinal imaging and clinical datasets, implementing automated pipelines to extract structured features from fundus images and align them with VF and IOP records.
+• Model Architecture & Training: Built, trained, and iteratively refined Vision Transformer (ViT) and Diffusion Model pipelines tailored for fundus-to-VF synthesis.
+• Loss Design & Optimization: Implemented and tested model variations incorporating contrastive loss, reliability weighting, and PSO to enhance synthesis stability and accuracy.
+• Evaluation & Error Analysis: Benchmarked model outputs using MSE and visual inspection, diagnosing failure cases and implementing targeted corrections across iterations.
+• Repository Management & Documentation: Maintained structured version control, clean commit histories, and comprehensive README documentation on GitHub alongside technical presentations of experimental results and clinical insights.
 
 ---
 
